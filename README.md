@@ -1,4 +1,4 @@
-# TransAbuja-Shuttle
+# TransAbuja Shuttle
 A CNG-powered transport shuttle in Abuja, Nigeria, fueled by Pi Network payments (@khaka8021). Incubated on Brainstorm.pi with 190+ reactions—help us bring affordable rides to life!
 
 ## What’s This?
