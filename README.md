@@ -119,9 +119,9 @@ Target Launch: Q4 2025
 
 📬 Join the Movement
 
-🌐 Brainstorm Proposal: [Insert Pi Brainstorm Link Here]
+🌐 Brainstorm Proposal: 
 
-💬 Telegram: [Coming Soon]
+💬 Telegram: [https://t.me/+hn1JrYxTx4VkNTNk]
 
 📧 Email: emmanuelkhakagana@gmail.com
 
